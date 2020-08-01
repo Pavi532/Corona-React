@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Corona-React/static/css/main.6168683a.chunk.css",
-    "main.js": "/Corona-React/static/js/main.c8ee6d8b.chunk.js",
-    "main.js.map": "/Corona-React/static/js/main.c8ee6d8b.chunk.js.map",
+    "main.css": "/Corona-React/static/css/main.e3581b26.chunk.css",
+    "main.js": "/Corona-React/static/js/main.0112bfbe.chunk.js",
+    "main.js.map": "/Corona-React/static/js/main.0112bfbe.chunk.js.map",
     "runtime-main.js": "/Corona-React/static/js/runtime-main.44ba2eeb.js",
     "runtime-main.js.map": "/Corona-React/static/js/runtime-main.44ba2eeb.js.map",
-    "static/js/2.8b21a69d.chunk.js": "/Corona-React/static/js/2.8b21a69d.chunk.js",
-    "static/js/2.8b21a69d.chunk.js.map": "/Corona-React/static/js/2.8b21a69d.chunk.js.map",
+    "static/js/2.83d6c93a.chunk.js": "/Corona-React/static/js/2.83d6c93a.chunk.js",
+    "static/js/2.83d6c93a.chunk.js.map": "/Corona-React/static/js/2.83d6c93a.chunk.js.map",
     "index.html": "/Corona-React/index.html",
-    "precache-manifest.3403dfc6b6e8dec412eda618fb224624.js": "/Corona-React/precache-manifest.3403dfc6b6e8dec412eda618fb224624.js",
+    "precache-manifest.b1d301fe9c23bd0c35d342ac809b2400.js": "/Corona-React/precache-manifest.b1d301fe9c23bd0c35d342ac809b2400.js",
     "service-worker.js": "/Corona-React/service-worker.js",
-    "static/css/main.6168683a.chunk.css.map": "/Corona-React/static/css/main.6168683a.chunk.css.map",
-    "static/js/2.8b21a69d.chunk.js.LICENSE.txt": "/Corona-React/static/js/2.8b21a69d.chunk.js.LICENSE.txt"
+    "static/css/main.e3581b26.chunk.css.map": "/Corona-React/static/css/main.e3581b26.chunk.css.map",
+    "static/js/2.83d6c93a.chunk.js.LICENSE.txt": "/Corona-React/static/js/2.83d6c93a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.44ba2eeb.js",
-    "static/js/2.8b21a69d.chunk.js",
-    "static/css/main.6168683a.chunk.css",
-    "static/js/main.c8ee6d8b.chunk.js"
+    "static/js/2.83d6c93a.chunk.js",
+    "static/css/main.e3581b26.chunk.css",
+    "static/js/main.0112bfbe.chunk.js"
   ]
 }
